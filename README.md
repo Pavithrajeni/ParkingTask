@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/banner.png" alt="ParkFlow Banner"/>
+</p>
+
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
